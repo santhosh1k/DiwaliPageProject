@@ -1,0 +1,46 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Poppins:wght@100;300;500;600;700&display=swap');
+
+body{
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px; 
+
+}
+
+.bg-diwali-top-section{
+    /* background-image: url(""); */
+    height: 80vh;
+    background-size: cover;
+}
+.diwali-main-heading{
+ color: aliceblue;
+ font-style: italic;
+ font-size: 60px;
+ font-weight: bold;
+ text-align: "center";
+ font-family: 'Anton', sans-serif;
+}
+.heading-conatiner{
+    position: absolute;
+    top: 20%;
+    left: 40%;
+}
+/* @media screen and (max-width: 480px) {
+    .heading-conatiner{
+        top:6%;
+        left: 20%;
+    } 
+    .diwali-main-heading{
+        font-size: 20px;  
+    } 
+}
+@media screen and (device-width: 768px) {
+    .heading-conatiner{
+        top:6%;
+        left: 20%;
+    } 
+    .diwali-main-heading{
+        font-size: 40px;  
+    } 
+} */
